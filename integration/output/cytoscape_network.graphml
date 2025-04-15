@@ -12,17 +12,17 @@
   <key id="e_to_id" for="edge" attr.name="to_id" attr.type="double"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">CHOLINE</data>
+      <data key="v_name">Choline</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">1</data>
     </node>
     <node id="n1">
-      <data key="v_name">SN-GLYCERO-3-PHOSPHOCHOLINE</data>
+      <data key="v_name">Sn-glycero-3-phosphocholine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">2</data>
     </node>
     <node id="n2">
-      <data key="v_name">Myo-Inositol</data>
+      <data key="v_name">Myo-inositol</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">3</data>
     </node>
@@ -32,122 +32,122 @@
       <data key="v_id">4</data>
     </node>
     <node id="n4">
-      <data key="v_name">ALANINE</data>
+      <data key="v_name">Alanine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">5</data>
     </node>
     <node id="n5">
-      <data key="v_name">ARGININE</data>
+      <data key="v_name">Arginine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">6</data>
     </node>
     <node id="n6">
-      <data key="v_name">GLUTAMIC ACID</data>
+      <data key="v_name">Glutamic acid</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">7</data>
     </node>
     <node id="n7">
-      <data key="v_name">HISTIDINE</data>
+      <data key="v_name">Histidine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">8</data>
     </node>
     <node id="n8">
-      <data key="v_name">ISOLEUCINE</data>
+      <data key="v_name">Isoleucine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">9</data>
     </node>
     <node id="n9">
-      <data key="v_name">LEUCINE</data>
+      <data key="v_name">Leucine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">10</data>
     </node>
     <node id="n10">
-      <data key="v_name">LYSINE</data>
+      <data key="v_name">Lysine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">11</data>
     </node>
     <node id="n11">
-      <data key="v_name">PHENYLALANINE</data>
+      <data key="v_name">Phenylalanine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">12</data>
     </node>
     <node id="n12">
-      <data key="v_name">PROLINE</data>
+      <data key="v_name">Proline</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">13</data>
     </node>
     <node id="n13">
-      <data key="v_name">SERINE</data>
+      <data key="v_name">Serine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">14</data>
     </node>
     <node id="n14">
-      <data key="v_name">THREONINE</data>
+      <data key="v_name">Threonine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">15</data>
     </node>
     <node id="n15">
-      <data key="v_name">VALINE</data>
+      <data key="v_name">Valine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">16</data>
     </node>
     <node id="n16">
-      <data key="v_name">GLUTAMINE</data>
+      <data key="v_name">Glutamine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">17</data>
     </node>
     <node id="n17">
-      <data key="v_name">ASPARTIC ACID</data>
+      <data key="v_name">Aspartic acid</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">18</data>
     </node>
     <node id="n18">
-      <data key="v_name">GLUCOSE</data>
+      <data key="v_name">Glucose</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">19</data>
     </node>
     <node id="n19">
-      <data key="v_name">TAURINE</data>
+      <data key="v_name">Taurine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">20</data>
     </node>
     <node id="n20">
-      <data key="v_name">GLUTATHIONE (OXIDIZED)</data>
+      <data key="v_name">Glutathione (oxidized)</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">21</data>
     </node>
     <node id="n21">
-      <data key="v_name">D(+)-GALACTURONIC ACID</data>
+      <data key="v_name">D(+)-galacturonic acid</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">22</data>
     </node>
     <node id="n22">
-      <data key="v_name">URIDINE</data>
+      <data key="v_name">Uridine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">23</data>
     </node>
     <node id="n23">
-      <data key="v_name">INOSINE</data>
+      <data key="v_name">Inosine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">24</data>
     </node>
     <node id="n24">
-      <data key="v_name">XANTHOSINE</data>
+      <data key="v_name">Xanthosine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">25</data>
     </node>
     <node id="n25">
-      <data key="v_name">4-AMINOBUTANOATE</data>
+      <data key="v_name">4-aminobutanoate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">26</data>
     </node>
     <node id="n26">
-      <data key="v_name">SPHINGOSINE</data>
+      <data key="v_name">Sphingosine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">27</data>
     </node>
     <node id="n27">
-      <data key="v_name">SUCCINATE</data>
+      <data key="v_name">Succinate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">28</data>
     </node>
@@ -157,87 +157,87 @@
       <data key="v_id">29</data>
     </node>
     <node id="n29">
-      <data key="v_name">FRUCTOSE 6 PHOSPHATE</data>
+      <data key="v_name">Fructose 6 phosphate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">30</data>
     </node>
     <node id="n30">
-      <data key="v_name">4-PYRIDOXATE</data>
+      <data key="v_name">4-pyridoxate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">31</data>
     </node>
     <node id="n31">
-      <data key="v_name">D-ERYTHROSE-4-PHOSPHATE</data>
+      <data key="v_name">D-erythrose-4-phosphate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">32</data>
     </node>
     <node id="n32">
-      <data key="v_name">TYROSINE</data>
+      <data key="v_name">Tyrosine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">33</data>
     </node>
     <node id="n33">
-      <data key="v_name">3,4-DIHYDROXY-1-PHENYLALANINE</data>
+      <data key="v_name">3,4-dihydroxy-1-phenylalanine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">34</data>
     </node>
     <node id="n34">
-      <data key="v_name">L-DOPA</data>
+      <data key="v_name">L-dopa</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">35</data>
     </node>
     <node id="n35">
-      <data key="v_name">MALATE</data>
+      <data key="v_name">Malate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">36</data>
     </node>
     <node id="n36">
-      <data key="v_name">PHOSPHORYLCHOLINE</data>
+      <data key="v_name">Phosphorylcholine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">37</data>
     </node>
     <node id="n37">
-      <data key="v_name">ANSERINE</data>
+      <data key="v_name">Anserine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">38</data>
     </node>
     <node id="n38">
-      <data key="v_name">1-STEAROYL-SN-GLYCERO-3-PHOSPHOCHOLINE</data>
+      <data key="v_name">1-stearoyl-sn-glycero-3-phosphocholine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">39</data>
     </node>
     <node id="n39">
-      <data key="v_name">ADENOSINE</data>
+      <data key="v_name">Adenosine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">40</data>
     </node>
     <node id="n40">
-      <data key="v_name">O-PHOSPHORYLETHANOLAMINE</data>
+      <data key="v_name">O-phosphorylethanolamine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">41</data>
     </node>
     <node id="n41">
-      <data key="v_name">CREATININE</data>
+      <data key="v_name">Creatinine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">42</data>
     </node>
     <node id="n42">
-      <data key="v_name">5-AMINOVALERIC ACID</data>
+      <data key="v_name">5-aminovaleric acid</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">43</data>
     </node>
     <node id="n43">
-      <data key="v_name">4-GUANIDINOBUTANOIC ACID</data>
+      <data key="v_name">4-guanidinobutanoic acid</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">44</data>
     </node>
     <node id="n44">
-      <data key="v_name">CREATINE</data>
+      <data key="v_name">Creatine</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">45</data>
     </node>
     <node id="n45">
-      <data key="v_name">GLUCOSE 6 PHOSPHATE</data>
+      <data key="v_name">Glucose 6 phosphate</data>
       <data key="v_type">metabolite</data>
       <data key="v_id">46</data>
     </node>
