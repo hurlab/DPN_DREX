@@ -1,0 +1,244 @@
+,X,pathway,GeneID,val,cell.x,Group,gene,log2FoldChange,pvalue,cell.y,comparison,group
+28,CHOLINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+63,SN-GLYCERO-3-PHOSPHOCHOLINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+180,Myo-Inositol,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+214,Carnitine,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+218,ALANINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+228,ARGININE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+238,GLUTAMIC ACID,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+279,HISTIDINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+283,ISOLEUCINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+287,LEUCINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+291,LYSINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+295,PHENYLALANINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+305,PROLINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+309,SERINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+322,THREONINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+326,VALINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+330,GLUTAMINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+355,ASPARTIC ACID,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+365,GLUCOSE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+415,TAURINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+434,GLUTATHIONE (OXIDIZED),ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+438,D(+)-GALACTURONIC ACID,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+456,URIDINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+460,INOSINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+464,XANTHOSINE,ABC transporters,Abca3,1,mySC,mySC_Abca3,Abca3,0.428957846,0.00680558,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+26,CHOLINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+61,SN-GLYCERO-3-PHOSPHOCHOLINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+178,Myo-Inositol,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+212,Carnitine,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+216,ALANINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+226,ARGININE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+236,GLUTAMIC ACID,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+277,HISTIDINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+281,ISOLEUCINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+285,LEUCINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+289,LYSINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+293,PHENYLALANINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+303,PROLINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+307,SERINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+320,THREONINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+324,VALINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+328,GLUTAMINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+353,ASPARTIC ACID,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+363,GLUCOSE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+413,TAURINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+432,GLUTATHIONE (OXIDIZED),ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+436,D(+)-GALACTURONIC ACID,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+454,URIDINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+458,INOSINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+462,XANTHOSINE,ABC transporters,Abca7,1,mySC,mySC_Abca7,Abca7,-0.552647527,0.000834633,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+27,CHOLINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+62,SN-GLYCERO-3-PHOSPHOCHOLINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+179,Myo-Inositol,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+213,Carnitine,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+217,ALANINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+227,ARGININE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+237,GLUTAMIC ACID,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+278,HISTIDINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+282,ISOLEUCINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+286,LEUCINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+290,LYSINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+294,PHENYLALANINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+304,PROLINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+308,SERINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+321,THREONINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+325,VALINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+329,GLUTAMINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+354,ASPARTIC ACID,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+364,GLUCOSE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+414,TAURINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+433,GLUTATHIONE (OXIDIZED),ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+437,D(+)-GALACTURONIC ACID,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+455,URIDINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+459,INOSINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+463,XANTHOSINE,ABC transporters,Abcc5,1,mySC,mySC_Abcc5,Abcc5,-0.22148882,0.003116787,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+777,ARGININE,Amyotrophic lateral sclerosis,Actr1b,1,nmSC,nmSC_Actr1b,Actr1b,0.836451973,0.007102478,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+822,GLUTAMIC ACID,Amyotrophic lateral sclerosis,Actr1b,1,nmSC,nmSC_Actr1b,Actr1b,0.836451973,0.007102478,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+12,4-AMINOBUTANOATE,GABAergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+35,CHOLINE,Cholinergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+81,SN-GLYCERO-3-PHOSPHOCHOLINE,cGMP-PKG signaling pathway,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+86,SN-GLYCERO-3-PHOSPHOCHOLINE,Regulation of lipolysis in adipocytes,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+113,SPHINGOSINE,cGMP-PKG signaling pathway,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+145,SPHINGOSINE,Regulation of lipolysis in adipocytes,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+153,SPHINGOSINE,"Parathyroid hormone synthesis, secretion and action",Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+158,SPHINGOSINE,Cortisol synthesis and secretion,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+165,SPHINGOSINE,Longevity regulating pathway,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+254,GLUTAMIC ACID,Gap junction,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+262,GLUTAMIC ACID,Glutamatergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+268,GLUTAMIC ACID,GABAergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+275,GLUTAMIC ACID,Circadian entrainment,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+338,GLUTAMINE,Glutamatergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+344,GLUTAMINE,GABAergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+361,SUCCINATE,GABAergic synapse,Adcy6,1,mySC,mySC_Adcy6,Adcy6,0.635990215,0.00866395,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+134,SPHINGOSINE,AMPK signaling pathway,Adipor1,1,mySC,mySC_Adipor1,Adipor1,-0.414995672,0.007489803,mySC,DR_vs_HFD,mySC_DR_vs_HFD
+162,SPHINGOSINE,Longevity regulating pathway,Adipor1,1,mySC,mySC_Adipor1,Adipor1,-0.414995672,0.007489803,mySC,DR_vs_HFD,mySC_DR_vs_HFD
+200,Pyruvic acid,AMPK signaling pathway,Adipor1,1,mySC,mySC_Adipor1,Adipor1,-0.414995672,0.007489803,mySC,DR_vs_HFD,mySC_DR_vs_HFD
+378,GLUCOSE,AMPK signaling pathway,Adipor1,1,mySC,mySC_Adipor1,Adipor1,-0.414995672,0.007489803,mySC,DR_vs_HFD,mySC_DR_vs_HFD
+391,GLUCOSE,Non-alcoholic fatty liver disease,Adipor1,1,mySC,mySC_Adipor1,Adipor1,-0.414995672,0.007489803,mySC,DR_vs_HFD,mySC_DR_vs_HFD
+405, FRUCTOSE 6 PHOSPHATE,AMPK signaling pathway,Adipor1,1,mySC,mySC_Adipor1,Adipor1,-0.414995672,0.007489803,mySC,DR_vs_HFD,mySC_DR_vs_HFD
+869,GLUTAMINE,Vitamin B6 metabolism,Aox1,1,nmSC,nmSC_Aox1,Aox1,-1.222892804,0.002758069,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+950,4-PYRIDOXATE,Vitamin B6 metabolism,Aox1,1,nmSC,nmSC_Aox1,Aox1,-1.222892804,0.002758069,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+952,D-ERYTHROSE-4-PHOSPHATE,Vitamin B6 metabolism,Aox1,1,nmSC,nmSC_Aox1,Aox1,-1.222892804,0.002758069,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+149,SPHINGOSINE,"Parathyroid hormone synthesis, secretion and action",Arrb2,1,mySC,mySC_Arrb2,Arrb2,-0.561606755,0.001135225,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+347,TYROSINE,Dopaminergic synapse,Arrb2,1,mySC,mySC_Arrb2,Arrb2,-0.561606755,0.001135225,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+441,"3,4-DIHYDROXY-1-PHENYLALANINE",Dopaminergic synapse,Arrb2,1,mySC,mySC_Arrb2,Arrb2,-0.561606755,0.001135225,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+448,L-DOPA,Dopaminergic synapse,Arrb2,1,mySC,mySC_Arrb2,Arrb2,-0.561606755,0.001135225,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+729,SPHINGOSINE,FoxO signaling pathway,Cdkn1a,1,nmSC,nmSC_Cdkn1a,Cdkn1a,1.415166183,0.004431054,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+787,GLUTAMIC ACID,FoxO signaling pathway,Cdkn1a,1,nmSC,nmSC_Cdkn1a,Cdkn1a,1.415166183,0.004431054,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+903,MALATE,Renal cell carcinoma,Cdkn1a,1,nmSC,nmSC_Cdkn1a,Cdkn1a,1.415166183,0.004431054,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+906,GLUCOSE,FoxO signaling pathway,Cdkn1a,1,nmSC,nmSC_Cdkn1a,Cdkn1a,1.415166183,0.004431054,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+691,PHOSPHORYLCHOLINE,Choline metabolism in cancer,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+696,CHOLINE,Choline metabolism in cancer,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+709,ANSERINE,Choline metabolism in cancer,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+734,SPHINGOSINE,FoxO signaling pathway,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+739,1-STEAROYL-SN-GLYCERO-3-PHOSPHOCHOLINE,Choline metabolism in cancer,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+792,GLUTAMIC ACID,FoxO signaling pathway,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+799,GLUTAMIC ACID,Phospholipase D signaling pathway,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+911,GLUCOSE,FoxO signaling pathway,Egf,1,nmSC,nmSC_Egf,Egf,-2.264071453,0.004005728,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+8,4-AMINOBUTANOATE,GABAergic synapse,Gabrr2,1,mySC,mySC_Gabrr2,Gabrr2,-0.904722536,0.002472833,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+264,GLUTAMIC ACID,GABAergic synapse,Gabrr2,1,mySC,mySC_Gabrr2,Gabrr2,-0.904722536,0.002472833,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+340,GLUTAMINE,GABAergic synapse,Gabrr2,1,mySC,mySC_Gabrr2,Gabrr2,-0.904722536,0.002472833,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+357,SUCCINATE,GABAergic synapse,Gabrr2,1,mySC,mySC_Gabrr2,Gabrr2,-0.904722536,0.002472833,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+717,ADENOSINE,Sphingolipid metabolism,Gla,1,nmSC,nmSC_Gla,Gla,-3.266019486,0.009447635,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+848,SERINE,Sphingolipid metabolism,Gla,1,nmSC,nmSC_Gla,Gla,-3.266019486,0.009447635,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+933,O-PHOSPHORYLETHANOLAMINE,Sphingolipid metabolism,Gla,1,nmSC,nmSC_Gla,Gla,-3.266019486,0.009447635,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+11,4-AMINOBUTANOATE,GABAergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+34,CHOLINE,Cholinergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+71,SN-GLYCERO-3-PHOSPHOCHOLINE,Sphingolipid signaling pathway,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+79,SN-GLYCERO-3-PHOSPHOCHOLINE,cGMP-PKG signaling pathway,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+85,SN-GLYCERO-3-PHOSPHOCHOLINE,Regulation of lipolysis in adipocytes,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+94,ADENOSINE,Sphingolipid signaling pathway,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+111,SPHINGOSINE,cGMP-PKG signaling pathway,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+144,SPHINGOSINE,Regulation of lipolysis in adipocytes,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+152,SPHINGOSINE,"Parathyroid hormone synthesis, secretion and action",Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+253,GLUTAMIC ACID,Gap junction,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+260,GLUTAMIC ACID,Glutamatergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+267,GLUTAMIC ACID,GABAergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+274,GLUTAMIC ACID,Circadian entrainment,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+317,SERINE,Sphingolipid signaling pathway,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+336,GLUTAMINE,Glutamatergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+343,GLUTAMINE,GABAergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+351,TYROSINE,Dopaminergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+360,SUCCINATE,GABAergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+429,O-PHOSPHORYLETHANOLAMINE,Sphingolipid signaling pathway,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+445,"3,4-DIHYDROXY-1-PHENYLALANINE",Dopaminergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+452,L-DOPA,Dopaminergic synapse,Gnai3,1,mySC,mySC_Gnai3,Gnai3,0.520571253,0.004152864,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+6,4-AMINOBUTANOATE,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+18,CREATININE,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+47,5-AMINOVALERIC ACID,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+53,4-GUANIDINOBUTANOIC ACID,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+192,Pyruvic acid,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+224,ARGININE,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+234,GLUTAMIC ACID,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+301,PROLINE,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+421,CREATINE,Arginine and proline metabolism,Got1,1,mySC,mySC_Got1,Got1,-1.417196863,0.00692093,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+261,GLUTAMIC ACID,Glutamatergic synapse,Grik5,1,mySC,mySC_Grik5,Grik5,0.397090529,0.009700161,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+337,GLUTAMINE,Glutamatergic synapse,Grik5,1,mySC,mySC_Grik5,Grik5,0.397090529,0.009700161,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+1965,GLUTAMIC ACID,Porphyrin metabolism,Hmbs,1,ImmSC,ImmSC_Hmbs,Hmbs,1.748776845,0.004336208,ImmSC,DR_vs_HFD,ImmSC_DR_vs_HFD
+1967,THREONINE,Porphyrin metabolism,Hmbs,1,ImmSC,ImmSC_Hmbs,Hmbs,1.748776845,0.004336208,ImmSC,DR_vs_HFD,ImmSC_DR_vs_HFD
+195,Pyruvic acid,Terpenoid backbone biosynthesis,Hmgcs1,1,mySC,mySC_Hmgcs1,Hmgcs1,0.465873705,0.001551677,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+130,SPHINGOSINE,PI3K-Akt signaling pathway,Il3ra,1,mySC,mySC_Il3ra,Il3ra,-1.467303994,0.003498322,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+778,ARGININE,Amyotrophic lateral sclerosis,Klc2,1,nmSC,nmSC_Klc2,Klc2,1.250313982,0.009580368,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+823,GLUTAMIC ACID,Amyotrophic lateral sclerosis,Klc2,1,nmSC,nmSC_Klc2,Klc2,1.250313982,0.009580368,nmSC,HFD_vs_SD,nmSC_HFD_vs_SD
+122,SPHINGOSINE,PI3K-Akt signaling pathway,Lama4,1,mySC,mySC_Lama4,Lama4,0.37046642,0.003148652,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+770,ARGININE,Amyotrophic lateral sclerosis,Map1lc3a,1,nmSC,nmSC_Map1lc3a,Map1lc3a,-0.902988777,0.009911511,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+803,GLUTAMIC ACID,Ferroptosis,Map1lc3a,1,nmSC,nmSC_Map1lc3a,Map1lc3a,-0.902988777,0.009911511,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+815,GLUTAMIC ACID,Amyotrophic lateral sclerosis,Map1lc3a,1,nmSC,nmSC_Map1lc3a,Map1lc3a,-0.902988777,0.009911511,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+946,GLUTATHIONE (OXIDIZED),Ferroptosis,Map1lc3a,1,nmSC,nmSC_Map1lc3a,Map1lc3a,-0.902988777,0.009911511,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+773,ARGININE,Amyotrophic lateral sclerosis,Map2k6,1,nmSC,nmSC_Map2k6,Map2k6,-0.925384698,0.002937652,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+818,GLUTAMIC ACID,Amyotrophic lateral sclerosis,Map2k6,1,nmSC,nmSC_Map2k6,Map2k6,-0.925384698,0.002937652,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+194,Pyruvic acid,Terpenoid backbone biosynthesis,Mvd,1,mySC,mySC_Mvd,Mvd,0.733958404,0.009439471,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+173,Myo-Inositol,Inositol phosphate metabolism,Pip4k2a,1,mySC,mySC_Pip4k2a,Pip4k2a,0.526387572,0.006685325,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+183,Myo-Inositol,Phosphatidylinositol signaling system,Pip4k2a,1,mySC,mySC_Pip4k2a,Pip4k2a,0.526387572,0.006685325,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+398,GLUCOSE 6 PHOSPHATE,Inositol phosphate metabolism,Pip4k2a,1,mySC,mySC_Pip4k2a,Pip4k2a,0.526387572,0.006685325,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+30,CHOLINE,Cholinergic synapse,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+68,SN-GLYCERO-3-PHOSPHOCHOLINE,Sphingolipid signaling pathway,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+74,SN-GLYCERO-3-PHOSPHOCHOLINE,cGMP-PKG signaling pathway,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+91,ADENOSINE,Sphingolipid signaling pathway,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+106,SPHINGOSINE,cGMP-PKG signaling pathway,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+150,SPHINGOSINE,"Parathyroid hormone synthesis, secretion and action",Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+156,SPHINGOSINE,Cortisol synthesis and secretion,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+174,Myo-Inositol,Inositol phosphate metabolism,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+184,Myo-Inositol,Phosphatidylinositol signaling system,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+249,GLUTAMIC ACID,Gap junction,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+257,GLUTAMIC ACID,Glutamatergic synapse,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+271,GLUTAMIC ACID,Circadian entrainment,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+314,SERINE,Sphingolipid signaling pathway,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+333,GLUTAMINE,Glutamatergic synapse,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+348,TYROSINE,Dopaminergic synapse,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+399,GLUCOSE 6 PHOSPHATE,Inositol phosphate metabolism,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+426,O-PHOSPHORYLETHANOLAMINE,Sphingolipid signaling pathway,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+442,"3,4-DIHYDROXY-1-PHENYLALANINE",Dopaminergic synapse,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+449,L-DOPA,Dopaminergic synapse,Plcb3,1,mySC,mySC_Plcb3,Plcb3,-0.539614524,0.004953,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+690,PHOSPHORYLCHOLINE,Choline metabolism in cancer,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+695,CHOLINE,Choline metabolism in cancer,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+708,ANSERINE,Choline metabolism in cancer,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+720,ADENOSINE,Sphingolipid metabolism,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+738,1-STEAROYL-SN-GLYCERO-3-PHOSPHOCHOLINE,Choline metabolism in cancer,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+797,GLUTAMIC ACID,Phospholipase D signaling pathway,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+851,SERINE,Sphingolipid metabolism,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+936,O-PHOSPHORYLETHANOLAMINE,Sphingolipid metabolism,Plpp1,1,nmSC,nmSC_Plpp1,Plpp1,1.490936211,0.005138983,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+683,4-AMINOBUTANOATE,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+687,CREATININE,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+701,5-AMINOVALERIC ACID,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+705,4-GUANIDINOBUTANOIC ACID,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+744,Pyruvic acid,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+760,ARGININE,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+786,GLUTAMIC ACID,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+843,PROLINE,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+932,CREATINE,Arginine and proline metabolism,Prodh,1,nmSC,nmSC_Prodh,Prodh,-0.552434336,0.008855554,nmSC,DREX_vs_HFD,nmSC_DREX_vs_HFD
+774,ARGININE,Amyotrophic lateral sclerosis,Psmc4,1,nmSC,nmSC_Psmc4,Psmc4,0.878123033,0.009717908,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+819,GLUTAMIC ACID,Amyotrophic lateral sclerosis,Psmc4,1,nmSC,nmSC_Psmc4,Psmc4,0.878123033,0.009717908,nmSC,EX_vs_HFD,nmSC_EX_vs_HFD
+72,SN-GLYCERO-3-PHOSPHOCHOLINE,Sphingolipid signaling pathway,Rock2,1,mySC,mySC_Rock2,Rock2,-0.360181397,0.005754916,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+80,SN-GLYCERO-3-PHOSPHOCHOLINE,cGMP-PKG signaling pathway,Rock2,1,mySC,mySC_Rock2,Rock2,-0.360181397,0.005754916,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+95,ADENOSINE,Sphingolipid signaling pathway,Rock2,1,mySC,mySC_Rock2,Rock2,-0.360181397,0.005754916,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+112,SPHINGOSINE,cGMP-PKG signaling pathway,Rock2,1,mySC,mySC_Rock2,Rock2,-0.360181397,0.005754916,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+318,SERINE,Sphingolipid signaling pathway,Rock2,1,mySC,mySC_Rock2,Rock2,-0.360181397,0.005754916,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+430,O-PHOSPHORYLETHANOLAMINE,Sphingolipid signaling pathway,Rock2,1,mySC,mySC_Rock2,Rock2,-0.360181397,0.005754916,mySC,HFD_vs_SD,mySC_HFD_vs_SD
+2,4-AMINOBUTANOATE,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+14,CREATININE,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+43,5-AMINOVALERIC ACID,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+49,4-GUANIDINOBUTANOIC ACID,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+188,Pyruvic acid,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+220,ARGININE,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+230,GLUTAMIC ACID,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+297,PROLINE,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+417,CREATINE,Arginine and proline metabolism,Sat2,1,mySC,mySC_Sat2,Sat2,0.711296159,0.001276216,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+22,PHOSPHORYLCHOLINE,Choline metabolism in cancer,Slc44a2,1,mySC,mySC_Slc44a2,Slc44a2,-0.364314889,0.003779346,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+39,CHOLINE,Choline metabolism in cancer,Slc44a2,1,mySC,mySC_Slc44a2,Slc44a2,-0.364314889,0.003779346,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+57,ANSERINE,Choline metabolism in cancer,Slc44a2,1,mySC,mySC_Slc44a2,Slc44a2,-0.364314889,0.003779346,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+169,1-STEAROYL-SN-GLYCERO-3-PHOSPHOCHOLINE,Choline metabolism in cancer,Slc44a2,1,mySC,mySC_Slc44a2,Slc44a2,-0.364314889,0.003779346,mySC,DREX_vs_HFD,mySC_DREX_vs_HFD
+688,PHOSPHORYLCHOLINE,Choline metabolism in cancer,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+693,CHOLINE,Choline metabolism in cancer,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+706,ANSERINE,Choline metabolism in cancer,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+730,SPHINGOSINE,FoxO signaling pathway,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+736,1-STEAROYL-SN-GLYCERO-3-PHOSPHOCHOLINE,Choline metabolism in cancer,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+788,GLUTAMIC ACID,FoxO signaling pathway,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+795,GLUTAMIC ACID,Phospholipase D signaling pathway,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+904,MALATE,Renal cell carcinoma,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+907,GLUCOSE,FoxO signaling pathway,Sos1,1,nmSC,nmSC_Sos1,Sos1,2.125996164,0.005989401,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+804,GLUTAMIC ACID,Ferroptosis,Tfrc,1,nmSC,nmSC_Tfrc,Tfrc,3.416787157,0.004338806,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+947,GLUTATHIONE (OXIDIZED),Ferroptosis,Tfrc,1,nmSC,nmSC_Tfrc,Tfrc,3.416787157,0.004338806,nmSC,DR_vs_HFD,nmSC_DR_vs_HFD
+252,GLUTAMIC ACID,Gap junction,Tubb2b,1,mySC,mySC_Tubb2b,Tubb2b,0.634557058,0.006391699,mySC,EX_vs_HFD,mySC_EX_vs_HFD

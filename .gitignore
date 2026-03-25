@@ -1,0 +1,96 @@
+# Internal project files (not for public repo)
+DREX_PROJECT_SUMMARY.md
+
+# ===========================================================================
+# Scripts and results NOT included in the published manuscript.
+# These are exploratory, superseded, or duplicate analyses retained locally
+# for reference but excluded from the public repository.
+# ===========================================================================
+
+# --- scRNAseq: analyses not reported in manuscript ---
+scRNAseq/scripts/run_cellchat.r
+scRNAseq/scripts/run_trajectory.r
+scRNAseq/scripts/run_senescence_analysis.r
+scRNAseq/scripts/run_senmayo_significance.R
+scRNAseq/scripts/run_macrophage_subclustering.r
+scRNAseq/scripts/run_spia.R
+scRNAseq/scripts/run_gsea_pathway.R
+scRNAseq/scripts/run_pseudobulk_DE_SC_comparison.R
+scRNAseq/scripts/run_overlap_pseudobulk_vs_JCI.R
+scRNAseq/scripts/run_overlap_allcells_SC_vs_JCI.R
+scRNAseq/results_CellChat_SC/
+
+# --- Fluxomics: 18-week data not reported; exposure pipeline not used ---
+fluxomics/scripts/fluxdata_18wk.R
+fluxomics/scripts/run_fluxomics_18wk.R
+fluxomics/scripts/flux_layer1_pipeline.R
+# run_fluxomics_26wk.R superseded by run_fluxomics_26wk_m0_sum.R (M+0 normalization)
+fluxomics/scripts/run_fluxomics_26wk.R
+
+# --- Metabolomics: duplicate and non-manuscript scripts ---
+# run_pathway.R is identical to run_pathway_gsva.R
+metabolomics/scripts/run_pathway.R
+# metabolite-only Mfuzz clustering (not the multi-omics integration in Fig 7)
+metabolomics/scripts/run_metabolite_integration.R
+
+# --- Integration: superseded versions ---
+# Original Mfuzz clustering, superseded by run_mfuzz_clustering_JH.R
+integration/scripts/run_mfuzz_clustering.R
+# Summed-flux variant, not the primary analysis
+integration/scripts/run_mfuzz_clustering_sum.R
+
+# ===========================================================================
+
+# R workspace and history
+.RData
+.Rhistory
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+# pkgdown site
+docs/
+
+# translation temp files
+po/*~
+
+# RStudio Connect folder
+rsconnect/

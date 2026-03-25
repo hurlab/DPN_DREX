@@ -1,0 +1,25 @@
+Metabolite,MetaboliteNames,Carbons,DoubleBonds,Carbons(Original),DoubleBonds(Original),ChainClass
+3-Methylglutaryl carnitine,3-Methylglutarylcarnitine,C6,0,C4,,Medium
+Acetyl carnitine,Acetylcarnitine,C2,0,C2,,Short
+Butyryl carnitine,Butyrylcarnitine,C4,0,C4,,Short
+Carnitine,Carnitine,,,,,
+Dodecanoyl carnitine,Dodecanoylcarnitine,C12,0,C12,,Medium
+Dodecenoyl carnitine,Dodecenoylcarnitine,C12,1,C12,1,Medium
+Hexadecadienoyl carnitine,Hexadecadienoylcarnitine,C16,2,C16,2,Long
+Hexadecanoyl carnitine,hexadecanoylcarnitine,C16,0,C16,,Long
+Hexadecatrienoyl carnitine,Hexadecatrienoylcarnitine,C16,3,C16,3,Long
+Hexadecenoyl carnitine,Hexadecenoylcarnitine,C16,1,C16,1,Long
+Hydroxybutryl carnitine,Hydroxybutrylcarnitine,C4,0,C4,,Short
+Hydroxy-methylbutyryl carnitine,Hydroxy-methylbutyrylcarnitine,C6,0,C6,,Medium
+Icosadecadienoyl carnitine,Icosadecadienoylcarnitine,C20,2,C20,2,Long
+Icosadecanoyl carnitine,Icosadecanoylcarnitine,C20,0,C20,,Long
+Icosadecenoyl carnitine,Icosadecenoylcarnitine,C20,1,C20,1,Long
+Octadecanoyl carnitine,Octadecanoylcarnitine,C18,0,C18,,Long
+Octadecatrienoyl carnitine,Octadecatrienoylcarnitine,C18,3,C18,3,Long
+Octadecedienoyl carnitine,Octadecedienoylcarnitine,C18,2,C18,2,Long
+Octadecenoyl carnitine,Octadecenoylcarnitine,C18,1,C18,1,Long
+Pentanoyl carnitine,Pentanoylcarnitine,C5,0,C5,,Medium
+Propionyl carnitine,Propionylcarnitine,C3,0,C3,,Short
+Tetradecadienoyl carnitine,Tetradecadienoylcarnitine,C14,2,C14,2,Long
+Tetradecanoyl carnitine,Tetradecanoylcarnitine,C14,0,C14,,Long
+Tetradecenoyl carnitine,Tetradecenoylcarnitine,C14,1,C14,1,Long
